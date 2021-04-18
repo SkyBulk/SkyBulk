@@ -8,3 +8,4 @@
 
 🤔 Projects:
 - [Threat intelligence based on TTPs](https://vulnwarex.github.io/vulnwarex_blog/)
+- [bin2sc](https://github.com/vulnwarex/bin2sc)
